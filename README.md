@@ -1,5 +1,7 @@
 <header>
 
+Status badge
+[![Step 0, Welcome](https://github.com/dynuchu/skills-write-javascript-actions/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/dynuchu/skills-write-javascript-actions/actions/workflows/0-welcome.yml)
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
